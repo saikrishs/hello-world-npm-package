@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-npm-package-test",
+  "version": "1.0.0",
+  "description": "Testing my first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/saikrishs/hello-world-npm-package.git"
+  },
+  "keywords": [
+    "npm",
+    "tutorial"
+  ],
+  "author": "sai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikrishs/hello-world-npm-package/issues"
+  },
+  "homepage": "https://github.com/saikrishs/hello-world-npm-package#readme"
+}
